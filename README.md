@@ -4,7 +4,7 @@ Exemplo de face recognition usando Dlib
 # Dependências
 
 sudo pip install --user numpy scipy dlib
-*** A instalação de dlib pode não ser tão simples em alguns casos, veja [aqui](http://dlib.net/) ***
+** A instalação de dlib pode não ser tão simples em alguns casos, veja [aqui](http://dlib.net/) **
 
 # Arquivos externos necessários:
 Baixe os seguintes arquivos e descompacte-os na mesma pasta em que estiver o .py:
